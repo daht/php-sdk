@@ -1,5 +1,5 @@
 {
-    "name": "daht_upyun/sdk",
+    "name": "daht/upyun_sdk",
     "description": "UPYUN sdk for php",
     "keywords": ["UPYUN", "sdk"],
     "type": "library",
