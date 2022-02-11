@@ -1,10 +1,10 @@
 {
-    "name": "upyun/sdk",
+    "name": "daht_upyun/sdk",
     "description": "UPYUN sdk for php",
     "keywords": ["UPYUN", "sdk"],
     "type": "library",
     "minimum-stability": "stable",
-    "homepage": "https://github.com/upyun/php-sdk/",
+    "homepage": "https://github.com/daht/php-sdk",
     "license": "MIT",
     "require": {
         "php": "^7.2.5 || ^8.0",
